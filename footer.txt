@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 footer will be 10 cm
+=======
+footer size 5 cm
+>>>>>>> a4b6cf159c3fdda576e3f621d8454f4274fce6a5
